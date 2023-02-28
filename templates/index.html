@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block content %}
+<div id="joke-container" class="align-middle text-justify">
+  <div class="card border border-2 border-primary rounded-lg ">
+    <div class="card-header">
+      <div class="row">
+        <div class="col-sm text-left">
+          <a class ='btn btn-joke pull-left' href="{{ url_for('joke',joke_id=joke['id']-1)}}" button type="button">
+            Previous
+          </a>
+        </div>
+        <div class="col-sm text-right">
+          <a class ='btn btn-joke pull-right' href="{{ url_for('joke',joke_id=joke['id']+1)}}" button type="button">
+            Next
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <p class="card-text">{{ joke['question'] }}</p>
+    </div>
+    <div class="card-body">
+      <input class= "btn btn-joke" type="button" value="Answer" id="btn_answer" onclick="showAnswer({{joke['id']}})"/>
+    </div>
+    <div class="card-footer" id={{joke['id']}} style="display:none">
+      <p class="card-text">{{joke['answer']}}</p>
+    </div>
+  </div>
+<div>
+{% endblock %}
+

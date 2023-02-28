@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "question": "Why was the math book sad?",
+        "answer": "Because it had too many problems."
+    },
+    {
+        "id": 2,
+        "question": "Why did the tomato turn red?",
+        "answer": "Because it saw the salad dressing!"
+    },
+    {
+        "id": 3,
+        "question": "What did one wall say to the other wall?",
+        "answer": "I'll meet you at the corner."
+    },
+    {
+        "id": 4,
+        "question": "Why don't scientists trust atoms?",
+        "answer": "Because they make up everything."
+    },
+    {
+        "id": 5,
+        "question": "Why do seagulls fly over the sea?",
+        "answer": "Because if they flew over the bay, they'd be bagels."
+    },
+    {
+        "id": 6,
+        "question": "Why did the scarecrow win an award?",
+        "answer": "Because he was outstanding in his field."
+    },
+    {
+        "id": 7,
+        "question": "Why did the banana go to the doctor?",
+        "answer": "Because it wasn't peeling well."
+    },
+    {
+        "id": 8,
+        "question": "Why don't skeletons fight each other?",
+        "answer": "They don't have the guts."
+    },
+    {
+        "id": 9,
+        "question": "Why did the coffee file a police report?",
+        "answer": "It got mugged."
+    },
+    {
+        "id": 10,
+        "question": "Why don't eggs tell jokes?",
+        "answer": "Because they'd crack each other up."
+    },
+    {
+        "id": 11,
+        "question": "What do you call a fake noodle?",
+        "answer": "An impasta."
+    },
+    {
+        "id": 12,
+        "question": "Why did the grape stop in the middle of the road?",
+        "answer": "Because it ran out of juice."
+    },
+    {
+        "id": 13,
+        "question": "Why don't ants get sick?",
+        "answer": "Because they have tiny ant-bodies."
+    },
+    {
+        "id": 14,
+        "question": "Why did the cookie go to the doctor?",
+        "answer": "Because it was feeling crumbly."
+    },
+    {
+        "id": 15,
+        "question": "Why can't you hear a pterodactyl go to the bathroom?",
+        "answer": "Because the P is silent."
+    },
+    {
+        "id": 16,
+        "question": "What do you call a boomerang that doesn't come back?",
+        "answer": "A stick."
+    },
+    {
+        "id": 17,
+        "question": "Why did the mushroom go to the party?",
+        "answer": "Because he was a fungi."
+    },
+    {
+        "id": 18,
+        "question": "Why did the cowboy buy a wiener dog?",
+        "answer": "Because he wanted to get a long little doggie."
+    },
+    {
+        "id": 19,
+        "question": "Why did the gym close down?",
+        "answer": "It just didn't work out."
+    },
+    {
+        "id": 20,
+        "question": "Why can't you give Elsa a balloon?",
+        "answer": "Because she will let it go."
+    },
+    {
+        "id": 21,
+        "question": "Why did the chicken cross the road twice?",
+        "answer": "To prove he wasn't a chicken." 
+    },
+    {
+        "id": 22,
+        "question": "Why do seagulls fly over the sea?",
+        "answer": "Because if they flew over the bay, they'd be bagels!"
+    },
+    {
+        "id": 23,
+        "question": "What did the duck say when it bought lipstick?",
+        "answer": "Put it on my bill."
+    },
+    {
+        "id": 24,
+        "question": "What do you call an alligator in a vest?",
+        "answer": "An investigator!"
+    },
+    {
+        "id": 25,
+        "question": "Why did the baker go to therapy?",
+        "answer": "He kneaded to work on his loaf-esteem."
+    },
+    {
+        "id": 26,
+        "question": "What do you call fake spaghetti?",
+        "answer": "An impasta!"
+    },
+    {
+        "id": 27,
+        "question": "What did the janitor say when he jumped out of the closet?",
+        "answer": "Supplies!"
+    },
+    {
+        "id": 28,
+        "question": "Why did the invisible man turn down the job offer?",
+        "answer": "He couldn't see himself doing it."
+    },
+    {
+        "id": 29,
+        "question": "Why did the frog call his insurance company?",
+        "answer": "He had a jump in his car."
+    },
+    {
+        "id": 30,
+        "question": "Why did the picture go to jail?",
+        "answer": "Because it was framed."
+    },
+    {
+        "id": 31,
+        "question": "What did the grape say when it got stepped on?",
+        "answer": "Nothing, it just let out a little wine."
+    },
+    {
+        "id": 32,
+        "question": "What do you get when you cross a snowman and a shark?",
+        "answer": "Frostbite."
+    },
+    {
+        "id": 33,
+        "question": "What do you call a boomerang that doesn't come back?",
+        "answer": "A stick."
+    }]
+       
