@@ -5,25 +5,25 @@
     <div class="card-header">
       <div class="row">
         <div class="col-sm text-left">
-          <a class ='btn btn-joke pull-left' href="{{ url_for('joke',joke_id=joke['id']-1)}}" button type="button">
+          <a id="btnPrevious" class ='btn btn-joke pull-left' href="{{ url_for('joke',joke_id=joke['id']-1)}}" button type="button">
             Previous
           </a>
         </div>
         <div class="col-sm text-right">
-          <a class ='btn btn-joke pull-right' href="{{ url_for('joke',joke_id=joke['id']+1)}}" button type="button">
+          <a id="btnNext" class ='btn btn-joke pull-right' href="{{ url_for('joke',joke_id=joke['id']+1)}}" button type="button">
             Next
           </a>
         </div>
       </div>
     </div>
     <div class="card-body">
-      <p class="card-text">{{ joke['question'] }}</p>
+      <p  id= "txtQuestion" class="card-text">{{ joke['question'] }}</p>
     </div>
     <div class="card-body">
       <input class= "btn btn-joke" type="button" value="Answer" id="btn_answer" onclick="showAnswer({{joke['id']}})"/>
     </div>
     <div class="card-footer" id={{joke['id']}} style="display:none">
-      <p class="card-text">{{joke['answer']}}</p>
+      <p id = "btnAnswer" class="card-text">{{joke['answer']}}</p>
     </div>
   </div>
 <div>
