@@ -1,0 +1,58 @@
+
+
+/*
+
+.flex-container{
+ display:flex; 
+ flex-direction: column;
+ align-items: center;  
+
+}
+.flex-container > div {
+     border: 3px solid red; 
+}
+
+
+.btn_view {
+  display:flex;
+}
+.btn {
+  border: 2px solid blue;
+  background-color: lightgrey;
+  color: black;
+  padding: 7px 14px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.label{
+border: 1px solid yellow;
+font-size: 16px;
+cursor: pointer;
+ background-color: lightgrey;
+}
+.center {
+  
+  height: 200px;
+  border: 3px solid green; 
+}
+*/
+body {
+  background-color: lightblue;
+  
+}
+
+h2 {
+	margin-top: 20px;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.btn-joke {
+    background-color: #dddddd !important;
+    border-radius: 35;
+    border: 3px solid yellow !important;
+    box-sizing: border-box !important;
+    border-color: crimson;
+}
